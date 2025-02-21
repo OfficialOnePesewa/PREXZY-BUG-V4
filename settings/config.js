@@ -12,7 +12,7 @@ global.mess = {
 }
 
 global.packname = 'PREXZY-BUG-V4'
-global.author = 'Precious Ayomide'
+global.author = 'Official OnePesewa'
 
 global.pairing = "PREXZY"
 
